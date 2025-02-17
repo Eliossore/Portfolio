@@ -1,11 +1,15 @@
 <nav class="navbar">
-    <ul>
-      <li *ngFor="let item of navItems" 
-          (click)="setActive(item)" 
-          [class.active]="activeItem === item">
-        {{ item }}
-      </li>
-    </ul>
-    <div class="highlight" [ngStyle]="highlightStyle"></div>
-  </nav>
+  <ul>
+    <li *ngFor="let item of navItems" 
+        (click)="setActive(item)" 
+        [class.active]="activeItem === item">
+      {{ item }}
+    </li>
+  </ul>
   
+  <!-- Highlight container -->
+  <div class="highlight-wrapper" [ngStyle]="highlightStyle">
+    <div class="highlight-inverted"></div> <!-- Inverted highlight -->
+    <div class="highlight"></div>        <!-- White foreground highlight -->
+  </div>
+</nav>

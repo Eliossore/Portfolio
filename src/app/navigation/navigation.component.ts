@@ -10,7 +10,7 @@ import { NgModule } from '@angular/core';
   styleUrl: './navigation.component.scss'
 })
 export class NavigationComponent {
-  navItems = ['Home', 'CV', 'Experiences', 'Projects', 'Contact'];
+  navItems = ['Home', 'CV', 'Experiences', 'Projects', 'Contact','Compétence'];
   activeItem = 'Home';
   highlightStyle = { left: '0px', width: '0px' };
 
