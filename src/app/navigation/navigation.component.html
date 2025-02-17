@@ -1,1 +1,11 @@
-<p>navigation works!</p>
+<nav class="navbar">
+    <ul>
+      <li *ngFor="let item of navItems" 
+          (click)="setActive(item)" 
+          [class.active]="activeItem === item">
+        {{ item }}
+      </li>
+    </ul>
+    <div class="highlight" [ngStyle]="highlightStyle"></div>
+  </nav>
+  
