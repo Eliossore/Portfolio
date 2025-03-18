@@ -5,7 +5,7 @@ import { TitleCardComponent } from './title-card/title-card.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, NavigationComponent, TitleCardComponent],
+  imports: [RouterOutlet, NavigationComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })

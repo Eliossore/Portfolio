@@ -1,0 +1,16 @@
+{
+    "competences": [
+        {
+            "title": "C++",
+            "description": "C++ programing language"
+        },
+        {
+            "title": "Java",
+            "description": "Java programming language"
+        },
+        {
+            "title": "Python",
+            "description": "Python programming language"
+        }
+    ]
+}
