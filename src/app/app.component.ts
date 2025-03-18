@@ -1,13 +1,22 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavigationComponent } from "./navigation/navigation.component";
+import { TitleCardComponent } from './title-card/title-card.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, NavigationComponent],
+  imports: [RouterOutlet, NavigationComponent, TitleCardComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'Portfolio';
+
+  constructor() {
+    this.disableScroll();
+  }
+
+  disableScroll() {
+    document.body.style.overflow = 'hidden';
+  }
 }
