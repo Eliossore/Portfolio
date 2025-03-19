@@ -1,1 +1,11 @@
-<p>{{competences | json}}</p>
+<div class="flex-box">
+    <div *ngFor="let item of competences" class="list of items">
+        <div class="card">
+            <h2>{{ item.title }}</h2>
+            <p>{{ item.description }}</p>
+            <img [src]="item.image" alt="{{ item.title }}">
+            <p>Level: {{ item.level }}</p>
+            <p>Category: {{ item.category }}</p>
+        </div>
+    </div>
+</div>

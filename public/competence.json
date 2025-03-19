@@ -2,15 +2,24 @@
     "competences": [
         {
             "title": "C++",
-            "description": "C++ programing language"
+            "description": "C++ programing language",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+            "level": "Intermediate",
+            "category": "Programming Languages"
         },
         {
             "title": "Java",
-            "description": "Java programming language"
+            "description": "Java programming language",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+            "level": "Intermediate",
+            "category": "Programming Languages"
         },
         {
             "title": "Python",
-            "description": "Python programming language"
+            "description": "Python programming language",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+            "level": "Intermediate",
+            "category": "Programming Languages"
         }
     ]
 }
