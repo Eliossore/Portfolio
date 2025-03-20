@@ -2,24 +2,143 @@
     "competences": [
         {
             "title": "C++",
-            "description": "C++ programing language",
+            "description": "Langage de programmation C++",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
-            "level": "Intermediate",
-            "category": "Programming Languages"
+            "level": "Avancé",
+            "category": "Langage de programmation"
+        },
+        {
+            "title": "C",
+            "description": "Langage de programmation C",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/640px-C_Programming_Language.svg.png",
+            "level": "Avancé",
+            "category": "Langage de programmation"
         },
         {
             "title": "Java",
-            "description": "Java programming language",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
-            "level": "Intermediate",
-            "category": "Programming Languages"
+            "description": "Langage de programmation Java",
+            "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png",
+            "level": "Débutant",
+            "category": "Langage de programmation"
         },
         {
             "title": "Python",
-            "description": "Python programming language",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
-            "level": "Intermediate",
-            "category": "Programming Languages"
+            "description": "Langage de programmation Python",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png",
+            "level": "Avancé",
+            "category": "Langage de programmation"
+        },
+        {
+            "title": "JavaScript",
+            "description": "Langage de programmation JavaScript",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png",
+            "level": "Intermédiaire",
+            "category": "Langage de programmation"
+        },
+        {
+            "title": "PHP",
+            "description": "Langage de programmation PHP",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png",
+            "level": "Intermédiaire",
+            "category": "Langage de programmation"
+        },
+        {
+            "title": "SQL/PLSQL",
+            "description": "Langage de requête",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/640px-Sql_data_base_with_logo.svg.png",
+            "level": "Intermédiaire",
+            "category": "Langage de requête"
+        },
+        {
+            "title": "HTML/CSS",
+            "description": "Langagages de programmation pour le web",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/640px-CSS3_and_HTML5_logos_and_wordmarks.svg.png",
+            "level": "Intermédiaire",
+            "category": "Langage de programmation"
+        },
+        {
+            "title": "Rust",
+            "description": "Langagages de programmation Rust",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png",
+            "level": "Débutant",
+            "category": "Langage de programmation"
+        },
+        {
+            "title": "Anglais",
+            "description": "Niveau d'Anglais parler et écrit",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/640px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+            "level": "C1",
+            "category": "Langue"
+        },
+        {
+            "title": "Japonais",
+            "description": "Niveau de japonais parler et écrit",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/640px-Flag_of_Japan.svg.png",
+            "level": "A1",
+            "category": "Langue"
+        },
+        {
+            "title": "Angular",
+            "description": "Framework de création d'application web",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png",
+            "level": "Avancé",
+            "category": "Framework"
+        },
+        {
+            "title": "Laravel",
+            "description": "Framework de backend utilisant PHP",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png",
+            "level": "Débutant",
+            "category": "Framework"
+        },
+        {
+            "title": "Symfony",
+            "description": "Framework backend utilisant PHP",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Symfony.jpg/640px-Symfony.jpg",
+            "level": "Intermédiaire",
+            "category": "Framework"
+        },
+        {
+            "title": "Qt",
+            "description": "Framework de création d'interface graphique",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/640px-Qt_logo_neon_2022.svg.png",
+            "level": "Intermédiaire",
+            "category": "Framework"
+        },
+        {
+            "title": "Docker",
+            "description": "Création de machine virtuelle permettant de déployer des applications",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png?20230309095311",
+            "level": "Intermédiaire",
+            "category": "Outils"
+        },
+        {
+            "title": "Git",
+            "description": "Outils de gestion de version",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png",
+            "level": "Avancé",
+            "category": "Outils"
+        },
+        {
+            "title": "GitHub",
+            "description": "Site d'agrégation de projet avec de la gestion de version",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png",
+            "level": "Avancé",
+            "category": "Outils"
+        },
+        {
+            "title": "Suite Office",
+            "description": "Inclut Microsoft 365 ainsi que les logiciels LibreOffice",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo-libreoffice.svg/640px-Logo-libreoffice.svg.png",
+            "level": "Intermédiaire",
+            "category": "Outils"
+        },
+        {
+            "title": "Linux",
+            "description": "Système d'exploitation libre et open-source",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tux-shaded.svg/640px-Tux-shaded.svg.png",
+            "level": "Intermédiaire",
+            "category": "Système d'exploitation"
         }
     ]
 }

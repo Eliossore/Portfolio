@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "title": "Stagiaire Développeur",
+            "company": "ANFSI",
+            "date": "Avril 2024 - Juin 2024",
+            "description": "Création et développement d'un site web pour l'intranet de l'ANFSI",
+            "image": "https://media.licdn.com/dms/image/v2/D4E0BAQHVQ6x-COi7pQ/company-logo_200_200/company-logo_200_200/0/1693551818722/anfsi_logo?e=2147483647&v=beta&t=slrzUtBQXEqMaUTK96hFCDbIDRifRk2ivxF2uxWQtZk"
+        },
+        {
+            "title": "Stagiaire Développeur",
+            "company": "Province Sud",
+            "date": "Mars 2025 - Juin 2025",
+            "description": "Mise en place d'une api pour l'infrastucture d'automatisation et de CI/CD de la province sud",
+            "image": "https://www.jagispourlanature.org/sites/default/files/structures/logos/logo-province-sud-nc-01.jpg"
+        }
+    ]
+}
